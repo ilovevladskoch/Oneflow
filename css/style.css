@@ -387,6 +387,7 @@ h6 {
     height: 850px;
     background-position: 0 0;
     background-repeat: no-repeat;
+    background-size: cover;
     background-image: url("../img/backgroung-img/back-img-3.png");
 }
 
